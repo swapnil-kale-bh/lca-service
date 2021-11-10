@@ -1,2 +1,3 @@
-# lca-service
-LCA microservices code
+# Strapi application
+
+A quick description of your strapi application
